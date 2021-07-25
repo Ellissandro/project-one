@@ -1,3 +1,6 @@
 [submodule "shared-components"]
 	path = shared-components
 	url = https://github.com/Ellissandro/shared-components.git
+[submodule "custom_lib"]
+	path = custom_lib
+	url = https://github.com/Ellissandro/my-lib.git
